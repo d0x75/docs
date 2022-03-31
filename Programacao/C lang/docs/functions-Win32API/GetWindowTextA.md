@@ -1,0 +1,1 @@
+GetWindowTextA() - pega os textos de determinadas janelas.

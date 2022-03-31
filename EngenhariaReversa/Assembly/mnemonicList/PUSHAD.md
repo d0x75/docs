@@ -1,0 +1,1 @@
+**PUSHAD** = empilha todos registradores na memória de uma vez. 

@@ -1,0 +1,18 @@
+As requisições consistem dos seguintes elementos:
+
+
+Um método HTTP, geralmente é um verbo como GET, POST, DELETE, PUT, etc, ou um substantivo como OPTIONS ou HEAD que define qual operação o cliente quer fazer. Tipicamente, um cliente que pegar um recurso (usando GET) ou publicar dados de um formulário HTML (usando POST), embora mais operações podem ser necessárias em outros casos.
+O caminho do recurso a ser buscado; a URL do recurso sem os elementos que são de contexto, por exemplo sem o protocolo protocol (http://), o domínio domain (aqui como developer.mozilla.org), ou a porta port TCP (aqui indicada pelo 80 que é ocultado por ser o número da porta padrão)
+A versão do protocolo HTTP.
+Cabeçalhos opcionais que contém informações adicionais para os servidores.
+Ou um corpo de dados, para alguns métodos como POST, similares aos corpos das respostas, que contém o recurso requisitado.
+
+
+Respostas consistem dos seguintes elementos:
+
+
+A versão do protocolo HTTP que elas seguem.
+Um código de status, indicando se a requisição foi bem sucedida, ou não, e por quê.
+Uma mensagem de status, uma pequena descrição informal sobre o código de status.
+Cabeçalhos HTTP, como aqueles das requisições.
+Opcionalmente, um corpo com dados do recurso requisitado.

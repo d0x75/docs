@@ -1,0 +1,1 @@
+**POPA** = desempilha 16 bits de cada registrador na memória 

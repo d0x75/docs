@@ -1,0 +1,1 @@
+GetDlgItemInt() - pega um número digitado numa caixa de diálogo.

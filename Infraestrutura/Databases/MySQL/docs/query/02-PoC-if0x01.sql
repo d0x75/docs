@@ -1,0 +1,1 @@
+select if(exists(select*from actor where actor.first_name = "PENELOPE"),"B.O EXISTENTE", if(exists (select * from actor where last_name = "GUINESS"),"EXISTE SIM", "NÃO EXISTE"));

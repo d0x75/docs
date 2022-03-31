@@ -1,0 +1,1 @@
+**POPAD** = desempilha todos registradores da memória. 

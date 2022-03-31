@@ -1,0 +1,2 @@
+serv : smtp.gmail.com
+port : 465

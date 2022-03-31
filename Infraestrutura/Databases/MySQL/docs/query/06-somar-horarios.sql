@@ -1,0 +1,1 @@
+SELECT SEC_TO_TIME( SUM( TIME_TO_SEC( nome_coluna) ) ) AS total_horas FROM nome_tabela

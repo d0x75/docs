@@ -1,0 +1,23 @@
+Setup Impressora Convencional no Windows
+-----------------------------------------
+
+
+### Compartilhar impressora em rede
+
+
+- Iniciar/Pesquisar
+- "Dispositivos e Impressoras" ou "Impressoras e Scanners"
+- clicar com o botão direito na impressora que foi instalada.
+- Propriedades da impressora
+- Ir na aba 'Compartilhamento' > Marcar a flag [ ] Compartilhar esta impressora > OK
+
+---
+
+- Agora basta usar os demais micros para acessar a impressora pela rede usando o ip ou hostname da máquina em que foi
+configurada a impressora. Exemplo :
+
+		CTRL+R > \\192.168.10.102
+
+- Ao acessar o IP da máquian pelo EXECUTAR do Windows, já devemos enxergar a impressora compartilhada.
+- Clicar na impressora que foi compartilhada e aguardar a instalação dos drivers.
+- Se tudo tiver dado certo, já iremos cair na interface da impressora E já conseguiremos fazer impressões.

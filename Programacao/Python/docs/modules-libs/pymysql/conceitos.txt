@@ -1,0 +1,4 @@
+### PyMySQL é uma lib criada para fazer a conexão e interagir com bancos de dados MySQL e MariaDB.
+
+- A maneira correta de obter uma instância dessa classe é chamar connect().
+- Faça uma conexão com o banco de dados MySQL. Para isso temos vários argumentos, porém

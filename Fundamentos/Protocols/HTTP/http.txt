@@ -1,0 +1,88 @@
+HTTP - Hypertext Transfer Protocol
+-------------------------------------
+
+- HTTP é um PROTOCOLO da camada de aplicação para a transmissão de documentos hipermídia, como o HTML. Foi desenvolvido para a comunicação entre navegadores web e servidores web.
+
+- Mesmo com mais complexidade introduzida no HTTP/2.0 por encapsular mensagens HTTP em quadros (frames), o HTTP foi projetado para ser simples e legível às pessoa
+
+- Segue o clássico modelo de CLIENTE x SERVIDOR. O cliente abre uma conexão, executa uma requisição e aguarda até receber uma resposta do servidor.
+
+- É um protocolo sem estado ( Stateless ), que significa que o servidor não mantém nenhum dado entre duas requisições(state).
+
+- Um servidor não é necessáriamente apenas uma máquina, mas vários servidores podem estar hospedados na mesma máquina. 
+Com o HTTP/1.1 e o cabeçalho Host, eles podem até compartilhar o mesmo endereço IP.
+
+
+
+
+# Códigos de retorno do HTTP
+
+100X - INFORMAÇÃO
+200X - SUCESSO
+	200 = OK
+300X - REDIRECIONAMENTO
+	302 = MOVED TEMPORARILY
+400X - ERRO NO CLIENTE
+	402 = NOT FOUND ( o cliente requisitou ao servidor algo que não existe )
+500X - ERRO NO SERVIDOR
+
+
+# Fazer uma requisição na unha, com netcat.
+
+	nc -v www.terra.com.br 80
+	
+	GET / HTTP/1.1
+	Host: uol.com.br
+	Accept-Language: fr
+	
+	GET = Method
+	/ = Path
+	HTTP/1.1 = Version Protocol
+	Accept-Language = Headers
+	
+
+# Aqui está uma lista de funcionalidades comuns, controláveis com HTTP:
+
+
+1. Cache
+A forma como documentos são cacheados pode ser controlada pelo HTTP. O servidor pode instruir proxies e clientes, sobre o que cachear e por quanto tempo.
+
+2. Relaxamento das restrições na origem
+
+3. Autenticação
+Autenticação básica pode ser fornecida pelo HTTP, usando tanto o cabeçalho WWW-Authenticate e similares, quanto configurando uma sessão específica usando cookies HTTP.
+
+4. Proxy e Tunelamento
+
+5. Sessões 
+Usando os cookies HTTP, permite você vincular requisições com o estado do servidor. Isso cria as sessões, apesar do protocolo HTTP básico não manter estado
+
+
+
+
+### Notes
+
+
+XMLHttpRequest = É a API mais utilizada construída em cima do HTTP. Pode ser usada para trocar dados entre um user agent e um servidor.
+
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview#Componentes_de_sistemas_baseados_em_HTTP
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers
+
+Cliente = user-agent ( é qualquer ferramenta que age em nome do usuário, EX: Browser )
+
+
+- É a base de qualquer troca de dados na Web.
+
+
+- Mensagens enviadas pelo CLIENTE, que geralmente são os navegadores da Web, são chamadas de REQUESTS.
+- Mensagens enviadas pelo SERVIDOR, como resposta são chamadas de RESPONSES
+
+
+navegador = CLIENT HTTP que envia solicitações ao servidor ( em que estiver hospedado o site )
+
+- Quando o usuário acessa ou digita a URL de um site; o navegador cria uma requisição (REQUEST) na web e a envia para o IP indicado pela URL.
+Desta forma, o servidor recebe essa solicitação ( request ) e envia uma resposta ( response ) com os arquivos associados que nada mais são, do que os conteúdos do site.
+
+- Depois que a solicitação é atendida pelo servidor, a conexão entre o usuário e o servidor é descontectada. E uma nova conexão deve ser feita para cada solicitação.

@@ -1,0 +1,1 @@
+GetDlgItemText() - pegam os textos que foram digitados na caixa de diálogo.

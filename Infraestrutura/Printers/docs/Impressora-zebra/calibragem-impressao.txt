@@ -1,0 +1,7 @@
+CALIBRANDO IMPRESSORA ZEBRA
+-----------------------------
+
+- Localizar a impressora em 'Dispositivos e impressora'
+- Compartilhar a mesma
+- Ir em preferências de impressão e clicar em CALIBRAR.
+
