@@ -27,6 +27,3 @@ crunch 14 14 -t Gbusiness^^%%% -o wl-gb
 ``
 
 
-- Gerar
-
-
