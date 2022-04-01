@@ -8,18 +8,18 @@ Exemplos de uso:
 - Gerar uma lista de palavras que contém na URL passada como parâmetro :
 
 ``
-cewl www.cortezadelima.com.br
+cewl www.uol.com.br
 ``
 
 - Gerar uma lista de palavras com no máximo 5 caracteres das palavras contidas na URL passada como parâmetro :
 
 ``
-cewl www.cortezadelima.com.br -m 5
+cewl www.uol.com.br -m 5
 ``
 
 - Um comando que gera uma word list ativando o modo Verbose (-v), usando o parâmetro Deep com seu valor padrão (-d), limitando a quantidade de caracteres de cada palavra para no Mínimo 5, e mandando escrever a wordlist gerada no 'arquivot.txt'.
  
 
 ``
-cewl www.cortezadelima.com.br -v -d 2 -m 5 -w arquivo.txt
+cewl www.uol.com.br -v -d 2 -m 5 -w arquivo.txt
 ``
