@@ -6,8 +6,7 @@ Arquitetura de Computadores
 
 #### Arquitetura **x86**:
 
-[CPU](01-CPU.md)
-
+[CPU](01-CPU.md)</br>
 [RAM Memory](02-RAM.md)
 
 [I/O Devices](03-IO.md)
