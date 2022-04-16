@@ -2,8 +2,8 @@
 
 >Voltado para fundamentos da computação e fudamentos elementares.
 
-[Redes de Computadores]()
+[Redes de Computadores](Computer_networks/readme.md)
 
 [Arquitetura de Computadores](Computer_architecture/readme.md)
 
-[Matemática]()
+[Matemática](Math/readme.md)
