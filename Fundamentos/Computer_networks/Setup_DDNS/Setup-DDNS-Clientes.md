@@ -24,7 +24,7 @@ Passo a Passo SETUP DDNS
 		Marcar o Host desejado.
 		Marcar a flag 'Require a password to modify hosts'
 		Clicar no botão 'Save'
-		Setar a senha padrão, para acessar o DucNoIp na máquina = farsoft01*
+		Setar a senha padrão, para acessar o DucNoIp na máquina = xxxx
 
 8. Em seguida faremos um setup para inicialização automática do DucNoIP: ( Imagem noIp-1.png )
 
