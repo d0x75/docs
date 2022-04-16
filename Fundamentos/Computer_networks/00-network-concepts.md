@@ -1,12 +1,10 @@
 ## Conceitos importantes de Redes (networks)
 
-[Switch](#Switches)
-
-[Maskara de Rede](#Masks)
-
-[Routers](#Routers)
-
-[LoadBalance](#Loads)
+[Switch](#Switches)</br>
+[Routers](#Routers)</br>
+[Load Balance](#Loads)</br>
+[Maskara de Rede](#Masks</br>)</br>
+[Sub redes](#Subnet</br>)</br>
 
 
 ---
