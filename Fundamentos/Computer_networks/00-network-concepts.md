@@ -1,6 +1,7 @@
 ## Conceitos importantes de Redes (networks)
 
-(Subredes)[]
+[Switch](#Switches)
+
 (Maskara de Rede)[...]
 (Switch)[]
 (Routers)[]
@@ -29,7 +30,7 @@ Agora, em redes pequenas, como a doméstica, você estará em uma sub-rede, pois
 
 ---
 
-### Switch
+### Switches
 
 
 - Switches são dispositivos dedicados em uma rede projetados para agregar vários outros dispositivos, 
