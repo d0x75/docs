@@ -9,12 +9,12 @@ Arquitetura de Computadores
 
 
 
-[Unidade Central de Processamento - CPU](01-CPU.md)
+[CPU](01-CPU.md)
 
-[Random Access Memory - Memória RAM](02-RAM.md)
+[RAM Memory](02-RAM.md)
 
-[I/O Devices - Dispositivos de Entrada e Saída](03-IO.md)
+[I/O Devices](03-IO.md)
 
-[ALU - Unidade Lógica Aritimética](04-ALU.md)
+[ALU](04-ALU.md)
 
-[Control Unit - Unidade de Controle](05-ControlUnit.md)
+[Control Unit](05-ControlUnit.md)
