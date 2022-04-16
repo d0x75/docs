@@ -1,4 +1,4 @@
-## Protocolo DHCP
+## DHCP
 
 
 - É quando um cliente obtem IP,Maskara de rede,Gateway automaticamente, através de um requisição DHCP que é feita na rede. Normalmente essa requisição chega em algum roteador, que normalmente tem um servidor DHCP para fornecer esses dados para quem faz as requisições. Esses dados fornecidos pelo servidor DHCP         

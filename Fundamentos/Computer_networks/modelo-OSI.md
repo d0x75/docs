@@ -3,7 +3,7 @@ Modelo OSI (Open Systems Interconnection)
 
 É o modelo tradicional utilizado para separar etapas do processo de comunicação entre redes.
 
-Na prática, é realmente o modelo TCP / IP mais compacto no qual a rede do mundo real se baseia; entretanto, o modelo OSI, de muitas maneiras, é mais fácil de se obter uma compreensão inicial.
+Na prática, realmente o modelo TCP / IP mais compacto no qual a rede do mundo real se baseia; entretanto, o modelo OSI, de muitas maneiras, é mais fácil de se obter uma compreensão inicial.
 
 O Modelo OSI é formado por 7 camadas que são responsáveis pelas informações que são
 trasnmitidas , e que vão da camada mais alta ( camada de aplicação ) até a camada mais 
