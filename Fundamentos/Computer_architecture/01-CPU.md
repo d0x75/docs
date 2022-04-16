@@ -1,6 +1,4 @@
-CPU - Unidade Central de Processamento
-=======================================
-
+# CPU - Unidade Central de Processamento
 
 *responsável por executar o código*
 
