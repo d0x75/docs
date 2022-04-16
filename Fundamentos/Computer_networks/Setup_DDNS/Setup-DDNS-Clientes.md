@@ -33,7 +33,7 @@ Passo a Passo SETUP DDNS
 		Ir na aba 'File' > 'Preferences'
 		Marcar as 2 primeiras flags
 
-![SetupExe](noIp-0.png)
+![SetupExe](noIp-1.png)
 
 	
 9. Liberar aa portas 3306/3307 no Firewall do Windows. ( Caso tenha um anti-vírus com Firewall, fazer a liberação nele também)
