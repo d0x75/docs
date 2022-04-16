@@ -7,10 +7,7 @@ Arquitetura de Computadores
 #### Arquitetura **x86**:
 
 [CPU](01-CPU.md)</br>
-[RAM Memory](02-RAM.md)
-
-[I/O Devices](03-IO.md)
-
-[ALU](04-ALU.md)
-
-[Control Unit](05-ControlUnit.md)
+[RAM Memory](02-RAM.md)</br>
+[I/O Devices](03-IO.md)</br>
+[ALU](04-ALU.md)</br>
+[Control Unit](05-ControlUnit.md)</br>
