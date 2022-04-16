@@ -1,7 +1,7 @@
 Math
 -----
 
-[Matemática](00-fundaments.md)
+[Aritimética](00-fundaments.md)
 
 [Fator](01-fator-multiplicacao.md)
 
