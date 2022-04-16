@@ -5,7 +5,9 @@ Passo a Passo SETUP DDNS
 
 1. Entrar no site do NoIP : https://www.noip.com/
 2. Fazer o login, com as credenciais do NoIP.
-3. Para criar um novo Host, seguimos os seguintes passos: ( Imagem noIp-0.png )
+3. Para criar um novo Host,seguimos o seguinte processo:
+
+![SetupSite](noIp-0.png)
 
 	Clicar em DNS Dinâmico
 	Create hostname
@@ -26,30 +28,15 @@ Passo a Passo SETUP DDNS
 		Clicar no botão 'Save'
 		Setar a senha padrão, para acessar o DucNoIp na máquina = xxxx
 
-8. Em seguida faremos um setup para inicialização automática do DucNoIP: ( Imagem noIp-1.png )
+8. Em seguida faremos um setup para inicialização automática do DucNoIP no Windows :
 
 		Ir na aba 'File' > 'Preferences'
 		Marcar as 2 primeiras flags
 
+![SetupExe](noIp-0.png)
+
 	
-9. Liberar a porta 3306/3307 no Firewall do Windows. ( Caso tenha um anti-vírus com Firewall, fazer a liberação nele também)
+9. Liberar aa portas 3306/3307 no Firewall do Windows. ( Caso tenha um anti-vírus com Firewall, fazer a liberação nele também)
 
-10. Acessar o roteador e fazer os Setups Finais:
 
-		Acessar o equipamento via navegador, pelo Gatway padrão.
-		Informar as credenciais para acessar o equipamento.
-		
-
-11. Reservar um através do MAC ADDRESS do dispositivo Servidor. ( Imagem VIVO-0.png )
-
-		Clicar em 'Configurações' > 'Rede Local'
-		Na parte de Criar Reserva no DHCP, selecionamos o hostname referente ao dispositivo considerado servidor.
-		Nessa mesma parte, na aba Endereço IP setamos o IP que ficará reservado para o dispositivo
-		Clicar no botão 'Reservar'
-
-12. Liberação das portas padrão, para permitir o acesso externo no servidor: ( Imagem VIVO-1.png )
-
-		Ainda na tela na rede local, clicamos na aba "Redirecionar Portas" e preenchemos as informações.
-		Clicar em Adicionar
-
-Observação: No campo IP Interno, colocamos o IP local da máquina do dispositivo considerado o 'Servidor'.
+10. Liberar as portas 3306/3307 no equipamento de rede, de onde vai receber os acessos.(roteador,loadbalance...)
