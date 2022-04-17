@@ -10,6 +10,7 @@ Chipset : BCM6846
 
 
 >Versão de Firmware: NÃO APARECE NO CLIENT DO ROUTER.
+
 >Versão de Hardware: NÃO APARECE NO CLIENT DO ROUTER.	
 
 ---
