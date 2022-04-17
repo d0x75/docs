@@ -13,3 +13,12 @@ Versão de Firmware:
 3.16.6 Build 130606 Rel.47286n
 Versão de Hardware:	
 WR740N v4 00000000
+
+
+---
+
+
+### Liberação de portas nesse roteador :
+
+![Setup1](port_forwarding/setup_1.png)
+![Setup2](port_forwarding/setup_2.png)

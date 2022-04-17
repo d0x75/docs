@@ -4,18 +4,19 @@
 
 
 Roteador : VIVO BOX
-Modelos possíveis :
+>Modelos possíveis :
 
-RTF3505VW-N2
-RTF8115VW
+	RTF3505VW-N2
+	RTF8115VW
 
+> Versões de Hardware que já vi:
+
+	REV4_B4
+	REV5
 
 ---
 
+### Liberação de portas nesse roteador :
 
-Versão de Firmware:	
-....
-Versões de Hardware que já vi:
-
-REV4_B4
-REV5
+![Setup1](port_forwarding/setup_1.png)
+![Setup2](port_forwarding/setup_2.png)

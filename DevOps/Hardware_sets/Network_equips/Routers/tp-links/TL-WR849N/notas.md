@@ -10,11 +10,20 @@ Modelo : TL-WR849N
 ---
 
 
-Versão de Firmware:
+> Versão de Firmware:
 
-0.9.1 3.16 v004c.0 Build 170503 Rel.64188n
+	0.9.1 3.16 v004c.0 Build 170503 Rel.64188n
+
+> Versão de Hardware:
+
+	TL-WR849N v5 00000005
 
 
-Versão de Hardware:
+---
 
-TL-WR849N v5 00000005
+
+
+### Liberação de portas nesse roteador :
+
+![Setup1](port_forwarding/setup_1.png)
+![Setup2](port_forwarding/setup_2.png)
