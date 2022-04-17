@@ -12,7 +12,8 @@
 [Coletor Bematech DC2200](Miscellaneous/Bematech_DC-2200/notas-DC2200.md)</br>
 
 ### Impressoras
-[Glossário sobre Impressoras](Printers/glossary.md)</br>
 [Impressoras a Laser]()</br>
 [Impressoras térmicas]()</br>
 [Impressoras zebra]()</br>
+
+[Glossário sobre Impressoras](Printers/glossary.md)</br>
