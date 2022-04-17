@@ -7,4 +7,4 @@
 [Backups]()</br>
 [Banco de Dados]()</br>
 [E-mails]()</br>
-[Hardwares Catalog]()</br>
+[Hardwares Catalog](Hardware_sets/index-hardwares.md)</br>
