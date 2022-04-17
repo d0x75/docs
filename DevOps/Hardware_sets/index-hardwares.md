@@ -5,7 +5,7 @@
 ### Equipamentos de Rede
 [Roteadores](Network_equips/Routers/routers-list.md)</br>
 [Switch TPLink T1600G-28TS](Network_equips/Switches/T1600G-28TS/notas.md)</br>
-[Load Balance TPLink TL-ER5120](Network_equips/LoadBalance/TL-ER5120/notas.md)</br>
+[Load Balance TPLink TL-ER5120](Network_equips/Load_Balance/TL-ER5120/notas.md)</br>
 
 
 ### Outros Hardwares
