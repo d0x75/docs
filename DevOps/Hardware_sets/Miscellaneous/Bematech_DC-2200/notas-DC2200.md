@@ -7,7 +7,7 @@
 ---
 
 
-#### Capturar Dados e Exportar para um arquivo .txt no computador.
+### Capturar Dados e Exportar para um arquivo .txt no computador.
 
 > Para capturar os dados fazemos o seguinte:
 
@@ -19,7 +19,7 @@
 
 4. Agora digitamos a quantidade e clicamos para confirmar novamente.
 
-_Esse processo é feito em todos os itens que estão sendo contados_.
+**Esse processo é feito em todos os itens que estão sendo contados**.
 
 > Para iniciar o processo da exportação dos dados coletados pelo DC220, faremos o seguinte:
 
@@ -40,6 +40,6 @@ computador via USB.
 
 4. Se tudo der certo abrirá o seu arquivo com os dados que foram exportados do DC2200;
 
-_Exemplo da tela que fazemos a transferência de dados do DC2200 para um Computador_.
+_**Exemplo da tela que fazemos a transferência de dados do DC2200 para um Computador**_.
 
 ![Image](DC2200_date_export.png)
