@@ -1,6 +1,6 @@
 ## DevOps e Infraestrutura
 
->Voltado para Infraestrutura no geral, hardwares e para a cultura DevOps!
+>Voltado para Infraestrutura no geral, conjuntos de hardwares e para a cultura DevOps!
 
 [Admnistrando Windows]()</br>
 [Admnistrando Linux]()</br>
