@@ -12,8 +12,13 @@
 [Coletor Bematech DC2200](Miscellaneous/Bematech_DC-2200/notas-DC2200.md)</br>
 
 ### Impressoras
-[Impressoras a Laser]()</br>
-[Impressoras térmicas]()</br>
-[Impressoras zebra]()</br>
+[HPLaser_408dn](Printers/Impressora-lader/HP/HPLaser_408dn)</br>
+
+[Impressoras ControlID térmica PrintID](Printers/Impressora-termica/ControlID/PrintID/notas.md)</br>
+[Impressoras ControlID térmica PrintID Touth](Printers/Impressora-termica/ControlID/PrintID_Touth/notas.md)</br>
+
+[Impressora Zebra TLP2844](Printers/Impressora-zebra/Zebra/TPL2844.md)</br>
+[Impressora Zebra GC420t](cGC420t.md)</br>
+[Impressora Zebra ZD220](Printers/Impressora-zebra/Zebra/ZD220.md)</br>
 
 [Glossário sobre Impressoras](Printers/glossary.md)</br>
