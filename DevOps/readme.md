@@ -2,9 +2,7 @@
 
 >Voltado para Infraestrutura no geral, conjuntos de hardwares e para a cultura DevOps!
 
-[Admnistrando Windows]()</br>
-[Admnistrando Linux]()</br>
-[Backups]()</br>
+[Gerenciamento de sistema - Windows]()</br>
+[Gerenciamento de sistema - Linux]()</br>
 [Banco de Dados]()</br>
-[E-mails]()</br>
 [Hardwares Catalog](Hardware_sets/index-hardwares.md)</br>

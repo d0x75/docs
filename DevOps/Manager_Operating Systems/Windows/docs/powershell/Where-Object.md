@@ -5,13 +5,13 @@ Where-Object
 - O alias do Where-Object é = ?
 
 
-		$TODOS = dir -Recurse -File | Where-Object Name -like "*farsoft*"
+		$TODOS = dir -Recurse -File | Where-Object Name -like "*TESTE*"
 
 
 - Selecionando objetos com Select-Object combinado com um Where-Object, os 2 comandos vistos anteiormente :
 
 
-		$TODOS = dir -Recurse -File | Where-Object Name -like "*farsoft*" | Select-Object Name,Length,Extension 
+		$TODOS = dir -Recurse -File | Where-Object Name -like "*TESTE*" | Select-Object Name,Length,Extension 
 
 
 ------
@@ -21,7 +21,7 @@ Where-Object
 - Implementando nosso script, para retornar apenas os arquivos que são setados no Where e no Select.
 
 
-			dir -Recurse -File | Where-Object Name -like "*farsoft*" | Select-Object Name, { "{0:N2}KB" -f ($_.Length / 1KB) }
+			dir -Recurse -File | Where-Object Name -like "*TESTE*" | Select-Object Name, { "{0:N2}KB" -f ($_.Length / 1KB) }
 
 
 
@@ -32,7 +32,7 @@ Where-Object
 	$lengthExpr = { "{0:N2}KB" -f ($_.Length / 1KB) }
 	$param = ($nameExpr,$lengthExpr)
 	dir -Recurse -File | 
-	    ? Name -like "*farsoft*" |
+	    ? Name -like "*TESTE*" |
 	     Select `
 	        $param
 ``

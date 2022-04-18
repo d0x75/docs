@@ -19,7 +19,7 @@ individualmente por meio de um dispositivo de rede central, como um switch ou hu
 
 EX :
 
- Farsoft.. UM Switch que distribuí a rede para os computadores. Trata-se de uma TOPOLOGIA ESTRELA neste caso.
+ TESTE.. UM Switch que distribuí a rede para os computadores. Trata-se de uma TOPOLOGIA ESTRELA neste caso.
 
 
 #### Bus Topology ( topologia de barramento )

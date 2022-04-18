@@ -25,7 +25,7 @@ __Exemplos__:
 - Real case, aplicar um brute force em um serviço de banco de dados utilizando uma wordlist cravada para o alvo.
 
 ``
-hydra -v -l root -P wl-farsoft.txt 192.168.0.250 mysql
+hydra -v -l root -P wl-teste.txt 192.168.0.250 mysql
 ``
 
 - Simular um ataque usando uma Wordlist criada para senha em um serviço de Remote Desktop ( atr windows ):

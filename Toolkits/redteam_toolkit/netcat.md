@@ -54,6 +54,6 @@ fazer o alvo acessar um link que cai no IP externo de onde a porta 80 esta abert
 
 		nc -vnz 192.168.101.103 3306
 
-		nc -vnz farsoft.com.br 80
+		nc -vnz teste.com.br 80
 
-		nc -vnz farsoft.com.br 80
+		nc -vnz teste.com.br 80

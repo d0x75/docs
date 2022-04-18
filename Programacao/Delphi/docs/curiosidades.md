@@ -3,7 +3,7 @@ Delphi curiosidades :
 
 0x00 
 
-- Pasta aonde os projetos são criados por padrão  ( meu PC Farsoft )
+- Pasta aonde os projetos são criados por padrão  ( meu PC TESTE )
 C:\Users\farne\Documents\Embarcadero\Studio\Projects
 
 

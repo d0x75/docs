@@ -58,7 +58,7 @@ Fazer a restauração de um banco de dados via cmd:
 
 	gbak –user SYSDBA –pas masterkey –r -v -o c:\backup.fbk 172.16.20.14:c:\dados.fdb
 
-	gbak -user SYSDBA -pas masterkey -rep -v -o C:\Farsoft\Backup_Farsoft-3697.FBK C:\Farsoft\Database\branco.FDB;
+	gbak -user SYSDBA -pas masterkey -rep -v -o C:\TESTE\Backup_TESTE-3697.FBK C:\TESTE\Database\branco.FDB;
 	
 
 gbak = chamando o binário do firebird responsável pelos backups e restores
