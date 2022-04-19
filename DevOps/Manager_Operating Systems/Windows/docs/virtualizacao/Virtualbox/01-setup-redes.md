@@ -1,4 +1,6 @@
-- Reconfigurar a rede da máquina como Bridge, da seguinte forma 
+### Setup de rede
+
+> Reconfigurar a rede da máquina como Bridge, da seguinte forma 
 
 1. Iniciar a máquina Metasploitable
 2. Em configurações, ir na aba redes
