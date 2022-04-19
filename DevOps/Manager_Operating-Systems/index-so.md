@@ -8,6 +8,6 @@
 [Windows - regedit](Windows/docs/regedit/00-index.md)</br>
 [Windows - atalhos e comandos facilitadores](Windows/docs/atalhos.md)
 
-[Linux - bash]()</br>
+[Linux - bash](Linux/docs/bash/00-index.md)</br>
 [Linux - setups]()</br>
 
