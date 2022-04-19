@@ -10,3 +10,9 @@
 		sudo service ssh status
 
 		sudo service ssh start
+
+
+
+> Imagem para auxiliar no setup :
+
+![SSh-setup](etc-ssh-sshd_config.png)

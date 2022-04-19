@@ -1,19 +1,14 @@
-Dicas de Linux
-==============
+## INSTALAÇÃO UBUNTO
 
-### Instalação das manpages da glibc geralemente não vem instaladas, para instalar basta:
-
- 		sudo apt-get install manpages-dev
-
-
-
-INSTALAÇÃO UBUNTO
-=================
 
 1. Bem vindo - Na primeira etapa escolhemos o nosso idioma e clicamos em INSTALAR O UBUNTO ( também podemos clicar em EXPERIMENTAR UBUNTO, para termos uma prévia do SO)
+
 2. Preparando pra instalar o ubunto - Deixar desmarcado as box 'Baixar atualizações enquanto instala o ubunto' e a box que instala softwares de terceiros'CODECS'. ( Também podemos marcar essas boxs, para que não precise atualizar o SO depois de instalado, mais não é muito recomendado pois requer uma internet rázoavel).
+
 3. Tipo de instalação - Nessa etapa podemos particionar nosso HD, para casos de DUALBOOT temos que marcar a RADIO 'Instalar ubunto ao lado do Windows' para ter opções de dualboot. Quando quisermos nos livrar do windows que estava anteriormente instalado e manter apenas o Ubunto, marcamos a RADIO 'Substituir o windows 7 pelo Ubunto'. E por fim temos a 'Opção avançada' que será a utilizada, onde temos informações dos particionamentos do disco rígido e podemos configurar de forma customizadas.
+
 Agora para instalar o Ubunto em uma partição, vamos no 'espaço livre' a ser armazenado e clicamos no sinal de +.
+
 Feito isso irá abrir uma nova telinha com o nome de 'CRIAR PARTIÇÃO', então iremos configurar da seguinte forma:
 
 	Tamanho: Colocamos o tamanho que vai conter a partição de nosso SO ( já vem preenchida por padrão com o tamanho total disponível)
