@@ -1,19 +1,17 @@
-## Harware Catalog
-
-### IoT
+#### IoT
 [MAMBA Wireless](IoT/Mouses/MAMBA_Wireless.md)</br>
 [EchoDot](IoT/EchoDot/ALEXA_EchoDot.md)</br>
 
-### Equipamentos de Rede
+#### Equipamentos de Rede
 [Roteadores](Network_equips/Routers/routers-list.md)</br>
 [Switch TPLink T1600G-28TS](Network_equips/Switches/T1600G-28TS/notas.md)</br>
 [Load Balance TPLink TL-ER5120](Network_equips/Load_Balance/TL-ER5120/notas.md)</br>
 
 
-### Outros Hardwares
+#### Outros Hardwares
 [Coletor Bematech DC2200](Miscellaneous/Bematech_DC-2200/notas-DC2200.md)</br>
 
-### Impressoras
+#### Impressoras
 [HPLaser_408dn](Printers/Impressora-lader/HP/HPLaser_408dn)</br>
 
 [Impressoras ControlID térmica PrintID](Printers/Impressora-termica/ControlID/PrintID/notas.md)</br>
