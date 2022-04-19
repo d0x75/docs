@@ -1,8 +1,6 @@
 SELECT *
 ----------
 
-
-
 Sintaxe:
 
 	SELECT column1, column2, ...
