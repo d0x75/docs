@@ -1,4 +1,4 @@
-## Maneger Operating Systems
+## Maneger Operating Systems ( gerenciamento de SO)
 
 >Voltado para conhecimentos na parte de usar/gerenciar sistemas operacionais
 
