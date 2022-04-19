@@ -8,4 +8,4 @@ SQL Keywords
 [NOT](05-NOT.md)</br>
 [ORDER BY](06-ORDERBY.md)</br>
 [INSERT INTO](07-INSERT.md)</br>
-[todos os JOIS](08-JOINS.md)</br>
+[Diferença entres os JOIS](08-JOINS.md)</br>

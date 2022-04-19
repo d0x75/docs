@@ -1,1 +1,0 @@
-select if (500>10, "SIM","NAO")

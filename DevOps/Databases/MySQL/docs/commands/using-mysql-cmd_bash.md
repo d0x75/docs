@@ -89,7 +89,7 @@ mysql --user=root --password=gue55me -e "SELECT 1+1"
 
 
 Criar usuário :
-------------------------
+----------------
 
 **Criar novo usuário**:
 
@@ -102,5 +102,14 @@ create user 'cliente'@'%' identified by 'TESTE123**';
 ``
 grant all privileges on *.* to 'cliente'@'%';
 flush privileges;
+``
+
+
+
+Backup Mysql Linux
+---------------------
+
+``
+mysqldump -u root -p -x -e --routines -B erp_name | sed -e 's/DEFINER=`.*`@`.*`\ //g' | gzip > local.sql.gz
 ``
 
