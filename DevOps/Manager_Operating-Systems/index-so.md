@@ -5,10 +5,8 @@
 
 [Windows - cmd](Windows/docs/cmd)</br>
 [Windows - powershell](Windows/docs/powershell)</br>
-[Windows - regedit]()</br>
-[Windows - setups]()</br>
-[Windows - virtualização com VirtualBox](Windows/virtualizacao/Virtualbox/00-index.md)</br>
-
+[Windows - regedit](Windows/docs/regedit/00-index.md)</br>
+[Windows - atalhos e comandos facilitadores](Windows/docs/atalhos.md)
 
 [Linux - bash]()</br>
 [Linux - setups]()</br>
