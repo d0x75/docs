@@ -7,7 +7,7 @@
 
 ---
 
-[(ConvertTo-Csv](ConvertTo-Csv.md)</br>
+[ConvertTo-Csv](ConvertTo-Csv.md)</br>
 [ConvertTo-Html](ConvertTo-Html.md)</br>
 [ConvertTo-Json](ConvertTo-Json.md)</br>
 [Get-Alias](Get-Alias.md)</br>
