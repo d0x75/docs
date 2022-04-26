@@ -112,7 +112,6 @@ Enter - faça o pedido
 Shift + Ctrl + F - lista suspensa de fontes
 Shift + Ctrl + F + F - Fonte da guia da caixa de diálogo Formatar célula
 Shift + Ctrl + P - lista suspensa Tamanho do ponto. 😁
-
 ```
 
 
