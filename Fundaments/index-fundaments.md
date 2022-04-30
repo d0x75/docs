@@ -2,6 +2,7 @@
 
 >Voltado para fundamentos da computação e fudamentos elementares.
 
-[Redes de Computadores](Computer_networks/index.md)</br>
-[Arquitetura de Computadores](Computer_architecture/index.md)</br>
-[Matemática](Math/index.md)</br>
+
+[Arquitetura de Computadores](Computer-architecture/docs)</br>
+[Matemática](Math/docs)</br>
+[Redes de Computadores](Computer-networks/docs)</br>

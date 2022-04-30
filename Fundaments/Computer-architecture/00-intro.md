@@ -4,7 +4,7 @@ Arquitetura de Computadores
 >A Arquitetura de Computadores é um projeto conceitual e fundamental da estrutura operacional de um sistema computacional. É o estudo dos requisitos necessários para que um computador funcione e de como organizar os diversos componentes, para obter o desempenho esperado.
 
 
-#### Arquitetura **x86**:
+### Arquitetura **x86**:
 
 [CPU](01-CPU.md)</br>
 [RAM Memory](02-RAM.md)</br>
