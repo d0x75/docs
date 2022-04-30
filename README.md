@@ -1,7 +1,7 @@
 # docs ( my notes )
 
 
-:small_red_triangle: [Red Team](Red-Team/index-imred.md)</br> :small_red_triangle:
+:small_red_triangle: [Red Team](Red-Team/index-imred.md):small_red_triangle:</br> 
 [Programming](Programming/index-dev.md)</br>
 [Fundaments](Fundaments/index-fundaments.mds)</br>
 [DevOps](DevOps/index-devops.md)</br>
