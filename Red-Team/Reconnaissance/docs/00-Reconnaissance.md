@@ -14,9 +14,3 @@ Mas existe o risco de ser detectado se você estiver planejando um reconheciment
 > Neste processo, você não estará diretamente conectado a um sistema de computador. Esse processo é usado para coletar informações essenciais sem interação com sistema.
 
 
-```bash
-nmap -sV -sC -O -p- 1.2.3.4
-```
-
-
-
