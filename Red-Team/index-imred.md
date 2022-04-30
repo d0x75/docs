@@ -1,8 +1,8 @@
 ## Red Team
 
->Para documentar operações de Red Team;
+>Para documentar todas skills que treino e estudo , que ajudam em operações de Red Team.
 
 
-[Exploração](Exploits/docs)</br>
-[Reconhecimento](Reconnaissance/docs)</br>
-[Engenharia Reversa](Reversing-Engineering/docs)</br>
+[Exploração](Exploits/docs):mag_right:</br>
+[Reconhecimento](Reconnaissance/docs):ghost:</br>
+[Engenharia Reversa](Reversing-Engineering/docs):trophy:</br>
