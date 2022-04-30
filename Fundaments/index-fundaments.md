@@ -5,4 +5,4 @@
 
 [Arquitetura de Computadores](Computer-architecture/docs) :slot_machine:</br>
 [Matemática](Math/docs) :1234:</br>
-[Redes de Computadores](Computer-networks/docs) :arrows_clockwise:</br>
+[Redes de Computadores](Computer-networks/docs) :part_alternation_mark:s</br>
