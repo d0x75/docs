@@ -1,5 +1,7 @@
-Article : https://www.fergonez.net/rce/segwin
+Article : https://www.thepythoncode.com/article/make-port-scanner-python
 
 
-### Fergo Article 0x00 - Análise de segurança do Windows
+### ThePyhtonCode - Criando um port scanner em Python
+
+
 
