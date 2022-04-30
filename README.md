@@ -1,10 +1,10 @@
 # docs ( my notes )
 
 
-:small_red_triangle: [Red Team](Red-Team/index-imred.md):small_red_triangle:</br> 
-[Programming](Programming/index-dev.md)</br>
-[Fundaments](Fundaments/index-fundaments.mds)</br>
-[DevOps](DevOps/index-devops.md)</br>
+:small_red_triangle:[Red Team](Red-Team/index-imred.md):small_red_triangle:</br> 
+:computer:[Programming](Programming/index-dev.md):computer:</br>
+:globe_with_meridians:[Fundaments](Fundaments/index-fundaments.mds):globe_with_meridians:</br>
+:hammer:[DevOps](DevOps/index-devops.md):hammer:</br>
 
 ```
             dddddddd                                                                              
