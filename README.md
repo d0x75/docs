@@ -1,5 +1,10 @@
 # docs ( my notes )
 
+[Red Team](Red Team/index-imred.md)</br>
+[Programming](Programming/index-dev.md)</br>
+[Fundaments](Fudaments/index-fundaments.md)</br>
+[DevOps](DevOps/index-devops.md)</br>
+
 ```
             dddddddd                                                                              
             d::::::d     000000000                         77777777777777777777555555555555555555 
