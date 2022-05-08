@@ -1,13 +1,13 @@
 ### history
 
 
-Mostra o histórico de comandos utilizados  no bash. 
+- Mostra o histórico de comandos utilizados  no bash. 
 
-``history``
+		history
 
-Usando a flag -c  limpa o histórico de comandos usados no bash.
+- Usando a flag -c  limpa o histórico de comandos usados no bash.
 
-``history -c``
+		history -c
 
 
 

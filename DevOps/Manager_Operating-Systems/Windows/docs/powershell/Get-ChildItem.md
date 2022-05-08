@@ -2,7 +2,7 @@ Get-ChildItem
 --------------
 
 
-PS : seu alias é o comando 'dir'
+_PS : seu alias é o comando 'dir'_
 
 
 - Além de listar os diretórios, lista os arquivos e subdiretórios dividos na tela. Resumindo, lista todos os arquivos separados por diretório.

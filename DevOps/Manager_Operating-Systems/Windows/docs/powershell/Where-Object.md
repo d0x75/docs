@@ -2,6 +2,7 @@ Where-Object
 --------------
 
 - Listando objetos usando o "WHERE", para listar apenas "onde" for passado como parâmetro pro Where-Object. Exemplo :
+
 - O alias do Where-Object é = ?
 
 
@@ -14,7 +15,8 @@ Where-Object
 		$TODOS = dir -Recurse -File | Where-Object Name -like "*TESTE*" | Select-Object Name,Length,Extension 
 
 
-------
+
+##### Case Practical
 
 
 

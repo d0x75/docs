@@ -3,8 +3,8 @@
 
 - Desliga o sistema imediatamente :
 
-``shutdown now ``
+		shutdown now 
 
 or
 
-``sudo shutdown now``
+		sudo shutdown now

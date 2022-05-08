@@ -1,24 +1,21 @@
 ### rm  
 
 
-Comando utilizado para remover arquivos ou diretórios.
+> Comando utilizado para remover arquivos ou diretórios.
 
-
-Formas de utilizar:
 
 - Remover apenas arquivos :
 
-``rm /tem/dudu/file.txt``
+		rm /tem/dudu/file.txt
 
 - Remover diretórios vazios :
 
-``rm -r``
+		rm -r
 
 - Remover diretórios que contém arquivos :
 
-``rm -rf``
-
-``rm -rfv``
+		rm -rf
+		rm -rfv
 		
 			
 		

@@ -10,6 +10,4 @@
 
 ``mkdir -p avo/pai/filho/neto``
 
-...
-
 

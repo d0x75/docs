@@ -1,10 +1,10 @@
 ### uname
 
-- uname : Exibi informações sobre o computador que está sendo utilizado.
+- Exibe informações sobre o computador que está sendo utilizado.
 
-``uname``
+		uname
 
-Mais completo:
+- Comando mais completo:
 
 
-``uname -a``
+		uname -a

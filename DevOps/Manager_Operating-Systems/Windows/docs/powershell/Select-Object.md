@@ -2,7 +2,7 @@ Select-Object
 --------------
 
 
- Selecionando objetos , emendando os comandos com " | "
+- Selecionando objetos , emendando os comandos com " | "
 - O alias do Select-Object é = select
 
 

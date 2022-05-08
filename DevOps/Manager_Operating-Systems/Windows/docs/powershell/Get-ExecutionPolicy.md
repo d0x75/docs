@@ -2,7 +2,7 @@ Get-ExecutionPolicy / Set-ExecutionPolicy
 -------------------------------------------
 
 
-Restrição de execução de scripts .ps1
+_Restrição de execução de scripts .ps1_
 
 - Por padrão o powershell não permite a execução de scripts .ps1 dentro do terminal, mais há uma maneira de alterar isso. É seguinte:
 

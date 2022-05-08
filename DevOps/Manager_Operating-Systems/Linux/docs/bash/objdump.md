@@ -1,6 +1,6 @@
 #### objdump
  
-- Software da categoria de Disassembly, que já vem nativo em algumas distribuiçoes Linux. 
+>Software da categoria de Disassembly, que já vem nativo em algumas distribuiçoes Linux. 
 
 - Exemplos de uso:
 

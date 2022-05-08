@@ -1,14 +1,15 @@
-### cd
+### cd ( change directory )
 
-The change directorie, comando usado para navegar entre pastas..
-Para navegar para um diretório específico:
+comando usado para navegar entre pastas..
+
+- Para navegar para um diretório específico:
 
 		cd "C:\Programs Files"
 
-Para navegar até o diretório raiz do sistema:
+- Para navegar até o diretório raiz do sistema:
 
 		cd /
 		
-Para voltar um diretório/pasta :
+- Para voltar um diretório/pasta :
 
 		cd..

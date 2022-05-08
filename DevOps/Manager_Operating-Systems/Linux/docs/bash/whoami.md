@@ -1,6 +1,8 @@
 ### whoami
 
 
-Mostra na tela o usuário atual
+- Mostra na tela o usuário atual:
+
+		whoami
 
 

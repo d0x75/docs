@@ -14,3 +14,8 @@ Mostra na tela todo conteúdo de onde foi executado o comando, bem como a data e
 - Listar e mostrar arquivos/pastas ocultos
 
 		dir /a
+
+- Listar apenas os nomes dos arquivos/pastas :
+
+		dir /b
+

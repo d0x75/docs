@@ -8,7 +8,7 @@ Get-Help
 		Get-Help -Name Rename-Item
 
 
- _CMDLET_
+- _CMDLET_
  
 - argumento -WhatIf diz oq o comando faria se ele fosse executado.
 - Atualizar o Help do powershell

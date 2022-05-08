@@ -1,4 +1,3 @@
-
 ### color
 
 Comando para alterar as cores do terminal, primeiro parâmetro cor de fundo, segundo parâmetro cor do carácter ( CÓDIGO DAS CORES EM HEXADECIMAL )

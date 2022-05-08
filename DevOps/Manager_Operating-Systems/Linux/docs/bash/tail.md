@@ -1,12 +1,12 @@
 ### tail
 
-Mostra por padrão as ultimas 10 linhas do arquivo que é passado como chave.
+- Mostra por padrão as ultimas 10 linhas do arquivo que é passado como chave.
 
-``tail file.txt``
+		tail file.txt
 
-``tail -n2 file.txt``
+		tail -n2 file.txt
 
-Também pode ser utilizado para monitorar o que é escrito em determinado arquivo, da seguinte forma:
+- Também pode ser utilizado para monitorar o que é escrito em determinado arquivo, da seguinte:
 
-``tail -f file.txt``
+		tail -f file.txt
 

@@ -6,6 +6,6 @@ Podemos abrir o cmd em outra janela, passando no primeiro parâmetro " " um tít
 
 		start "dudsdev".cmd
 
-Também abrir links externos, sem passar o parâmetro do título :
+- Também abrir links externos, sem passar o parâmetro do título :
 
 		start   "" http://www.google.com

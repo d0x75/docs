@@ -7,6 +7,5 @@ que o replace faz é apenas COLOCAR/SUBSTITUIR o conteúdo do arquivo a ser copi
 
 ``replace teste.sql C:\temp\``
 
-no exemplo acima coloca o arquivo teste.sql que é passado como parâmetro, no lugar de todos os arquivos com o mesmo nome(teste.sql) na pasta
-"C:\temp"
+_no exemplo acima coloca o arquivo teste.sql que é passado como parâmetro, no lugar de todos os arquivos com o mesmo nome(teste.sql) na pasta "C:\temp"_
 
