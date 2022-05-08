@@ -19,15 +19,20 @@ Em cada camada do modelo TCP / IP, um cabeçalho é adicionado durante o encapsu
 #### TCP ( Transmission Control Protocol - controla o fluxo de dados entre 2 extremidades como vimos anteriormente ) 
 
 
-o TCP é um protocolo baseado em conexão. Em outras palavras, antes de enviar quaisquer dados via TCP, você deve primeiro formar uma conexão estável entre os dois computadores. 
+> o TCP é um protocolo baseado em conexão. Em outras palavras, antes de enviar quaisquer dados via TCP, você deve primeiro formar uma conexão estável entre os dois computadores. 
+
 _O processo de formação dessa conexão é chamado de handshake de três vias_.
 
-- Quando você tenta fazer uma conexão, seu computador primeiro envia uma solicitação especial ao servidor remoto indicando que deseja inicializar uma conexão. 
-Essa solicitação contém algo chamado de bit SYN (abreviação de sincronizar), que basicamente faz o primeiro contato ao iniciar o processo de conexão. 
+>Quando você tenta fazer uma conexão, seu computador primeiro envia uma solicitação especial ao servidor remoto indicando que deseja inicializar uma conexão. 
+</br>
+>Essa solicitação contém algo chamado de bit SYN (abreviação de sincronizar), que basicamente faz o primeiro contato ao iniciar o processo de conexão. 
 O servidor então responderá com um pacote contendo o bit SYN, bem como outro bit de "reconhecimento", chamado ACK. 
-Finalmente, seu computador enviará um pacote que contém o bit ACK sozinho, confirmando que a conexão foi configurada com sucesso. 
+</br>
+>Finalmente, seu computador enviará um pacote que contém o bit ACK sozinho, confirmando que a conexão foi configurada com sucesso.
+</br>
 Com o handshake triplo concluído com êxito, os dados podem ser transmitidos de forma confiável entre os dois computadores.
+</br>
 Quaisquer dados perdidos ou corrompidos na transmissão são reenviados, levando a uma conexão que parece não ter perdas.
 
 
-IP  ( Internet Protocol - controla como os pacotes serão endereçados e enviados )
+- IP  ( Internet Protocol - controla como os pacotes serão endereçados e enviados )
