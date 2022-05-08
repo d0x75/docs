@@ -9,3 +9,14 @@ SQL Keywords
 [ORDER BY](06-ORDERBY.md)</br>
 [INSERT INTO](07-INSERT.md)</br>
 [Diferença entres os JOIS](08-JOINS.md)</br>
+
+
+---
+
+
+##### Nexts
+
+[CASE](#)</br>
+[Subquery ou subselect]</br>
+
+
