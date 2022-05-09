@@ -1,0 +1,1 @@
+TComboBox - componente que cria uma lista de opções pra serem selecionadas por uma seta.

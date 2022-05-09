@@ -1,0 +1,1 @@
+TMemo - componento que é um campo que recebe mais de uma linha de texto.
