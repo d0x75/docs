@@ -5,11 +5,21 @@ Usado para exibir da maneira mais simples, uma caixa de diálogo com a mensagem 
 - Exemplo :
 
 
-``
+```Pascal
 begin
 ShowMessage('Falha ao acessar');
 end;
-``
+```
+
+
+
+- Other :
+
+
+````Pascal
+begin
+ShowMessage('editName.Text');
+end;
 
 
 ---

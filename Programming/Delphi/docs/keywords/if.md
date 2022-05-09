@@ -1,28 +1,69 @@
-### if
-.........
+### if/else
 
-- Exemplos de como usar o laço condicional IF no Delphi. 
 
-Exemplo 1  :
-		
-		begin
-		editar:=LoginEdit1;
-		if LoginEdit1.Text = '123'
-		end;
-		end.
+- **Estrutura de decisão if then else no Delphi** :
 
-Exemplo 2  :
+> Em Pascal existem duas instruções que realizam tomadas de decisão e desvios de operações:
+a instrução de decisão simples if…then; e a instrução de decisão composta if…then…else.
 
-		begin
-		editar:=LoginEdit1;
-		editar:=LoginEdit2;
-		if LoginEdit1.Text = '123' then
-		begin
-		if LoginEdit2.Text = '123'
-		then ShowMessage('OK')
-		else ShowMessage('Try Again')
 
-		end;
-		end;
-		end.
+*if ... then :*
+
+
+
+- Sintaxe:
+
+		if <condição> then
+		<instrução para condição verdadeira>
+		<demais instruções>;
+
+
+```Pascal
+if 1=1 then
+	ShowMessage('OK')
+ShowMessage('CONT')
+```
+
+
+- Sintaxe :
+
+		if <condição> then
+			begin
+			<instrução para condição verdadeira>;
+			instrução para condição verdadeira>;
+			<instrução para condição verdadeira>;
+			end;
+		   <demais instruções>;
+
+
+```Pascal
+if 1=1 then
+begin
+	ShowMessage('OK');
+	ShowMessage('OK2');
+end;
+ShowMessage('CONT');
+```
+
+
+*if..then..else*
+
+
+- Sintaxe:
+
+		if <condição> then
+		 <instrução para condição verdadeira>
+		 else
+		<instrução para condição falsa>;
+		<demais instruções>;
+
+
+```Pascal
+if 1<>1 then
+	ShowMessage('OK')
+else
+	ShowMessage('ERR');
+```
+
+
 
